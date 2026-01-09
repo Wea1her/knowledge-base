@@ -22,12 +22,7 @@ export default defineConfig({
 
 			// 侧边栏导航配置
 			sidebar: [
-				{
-					label: '指南',
-					items: [
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
+
 
 				{
 					label: 'Web3开发笔记',
