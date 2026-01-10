@@ -21,6 +21,11 @@ export default defineConfig({
 			// 社交媒体链接配置
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/Wea1her' }],
 
+			// 自定义组件覆盖
+			components: {
+				Header: './src/components/Header.astro',
+			},
+
 			// 侧边栏导航配置
 			sidebar: [
 
