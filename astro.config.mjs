@@ -8,7 +8,8 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			// 网站标题
-			title: 'My Docs',
+			title: 'Weather Cosmos',
+
 			// 设置默认语言为中文
 			defaultLocale: 'root',
 			locales: {
