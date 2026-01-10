@@ -39,6 +39,11 @@ export default defineConfig({
 					label: 'vibecoding相关',
 					autogenerate: { directory: 'vibe-coding' },
 				},
+
+				{
+					label: '2026 Solana Bootcamp',
+					autogenerate: { directory: '2026-solana-bootcamp' },
+				}
 			],
 		}),
 		mdx(),
